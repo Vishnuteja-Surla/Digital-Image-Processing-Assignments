@@ -4,5 +4,5 @@
 
 ### To get degraded image, you can use builtin functions for doing,
 1. Blur the image
-2. Do compression on the image to jpeg2000 and decompress it
-3. Add Gaussian noise to the image
+2. Add Gaussian noise
+3. Compress using JPEG 2000 and then decompress it around 70% - 80%.
